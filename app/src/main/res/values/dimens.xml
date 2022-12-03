@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding">24dp</dimen>
+    <dimen name="product_item_text_start">32dp</dimen>
+    <dimen name="top_text">24dp</dimen>
+</resources>
